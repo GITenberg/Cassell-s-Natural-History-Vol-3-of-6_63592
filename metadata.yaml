@@ -1,0 +1,59 @@
+_repo: Cassell-s-Natural-History-Vol-3-of-6_63592
+_version: 0.0.1
+contributor:
+  contributors:
+  - agent_name: Garrod, A. H. (Alfred Henry)
+    alias: Garrod, Alfred Henry
+    birthdate: 1846
+    deathdate: 1879
+    gutenberg_agent_id: '50604'
+    url: http://www.gutenberg.org/2009/agents/50604
+    wikipedia: https://en.wikipedia.org/wiki/Alfred_Henry_Garrod
+  - agent_name: Dallas, W. S. (William Sweetland)
+    alias: Dallas, William Sweetland
+    birthdate: 1824
+    deathdate: 1890
+    gutenberg_agent_id: '41383'
+    url: http://www.gutenberg.org/2009/agents/41383
+    wikipedia: https://en.wikipedia.org/wiki/William_Dallas
+  - agent_name: Sharpe, Richard Bowdler
+    aliases:
+    - Sharpe, R. B. (Richard Bowdler)
+    - Sharpe, R. Bowdler
+    birthdate: 1847
+    deathdate: 1909
+    gutenberg_agent_id: '52512'
+    url: http://www.gutenberg.org/2009/agents/52512
+    wikipedia: https://en.wikipedia.org/wiki/Richard_Bowdler_Sharpe
+creator:
+  editor:
+    agent_name: Duncan, P. Martin (Peter Martin)
+    aliases:
+    - Duncan, Peter Martin
+    - Duncan, P. M. (Peter Martin)
+    - Duncan, Martin (Peter Martin)
+    birthdate: 1821
+    deathdate: 1891
+    gutenberg_agent_id: '43373'
+    url: http://www.gutenberg.org/2009/agents/43373
+    wikipedia: https://en.wikipedia.org/wiki/Peter_Martin_Duncan
+description: ''
+gutenberg_issued: '2020-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63592'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Animals'
+- !lcsh 'Zoology'
+- !lcc 'QL'
+- !lcsh 'Animal behavior'
+- GITenberg
+tableOfContents: 'Ungulata: Ruminantia / A.H. Garrod -- Rodentia / W.S. Dallas --
+  Edentata / P. Martin Duncan -- Marsupialia / P. Martin Duncan -- Aves / R. Bowdler
+  Sharpe.'
+title: Cassell's Natural History, Vol. 3 (of 6)
+url: http://www.gutenberg.org/ebooks/63592
